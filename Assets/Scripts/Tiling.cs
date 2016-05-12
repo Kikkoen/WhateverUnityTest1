@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿// This is comment! 
+
+using UnityEngine;
 using System.Collections;
 
 [RequireComponent (typeof(SpriteRenderer))]
